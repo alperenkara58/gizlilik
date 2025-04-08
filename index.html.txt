@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <title>Gizlilik Politikası - Moon Rising: Tap & Fly</title>
+</head>
+<body style="font-family: Arial, sans-serif; max-width: 800px; margin: auto; padding: 20px;">
+  <h1>Gizlilik Politikası</h1>
+  <p><strong>Son güncelleme:</strong> 8 Nisan 2025</p>
+
+  <p>Bu gizlilik politikası, <strong>Moon Rising: Tap & Fly</strong> mobil oyununun kullanıcılarından topladığı bilgileri ve bu bilgilerin nasıl kullanıldığını açıklar.</p>
+
+  <h2>1. Toplanan Bilgiler</h2>
+  <p>Moon Rising: Tap & Fly uygulaması doğrudan kişisel bilgi toplamaz. Ancak, aşağıdaki üçüncü taraf servis sağlayıcılar otomatik olarak belirli verileri toplayabilir:</p>
+  <ul>
+    <li>Cihaz bilgileri (model, işletim sistemi vb.)</li>
+    <li>IP adresi</li>
+    <li>Oyun içi kullanım verileri</li>
+    <li>Çökme ve hata raporları</li>
+    <li>Reklam gösterim ve etkileşim verileri</li>
+  </ul>
+
+  <h2>2. Bilgi Kullanımı</h2>
+  <p>Bu veriler şu amaçlarla kullanılabilir:</p>
+  <ul>
+    <li>Oyunun performansını artırmak</li>
+    <li>Hataları tespit edip düzeltmek</li>
+    <li>Kullanıcı deneyimini iyileştirmek</li>
+    <li>Reklamları daha uygun şekilde göstermek</li>
+  </ul>
+
+  <h2>3. Üçüncü Taraf Servisler</h2>
+  <p>Moon Rising: Tap & Fly şu servisleri kullanmaktadır:</p>
+  <ul>
+    <li><strong>Google AdMob</strong> – Reklam gösterimi sağlar. (<a href="https://policies.google.com/technologies/ads" target="_blank">Detaylı bilgi</a>)</li>
+    <li><strong>Firebase Analytics</strong> – Uygulama kullanımını anonim şekilde analiz eder. (<a href="https://firebase.google.com/support/privacy" target="_blank">Detaylı bilgi</a>)</li>
+  </ul>
+
+  <h2>4. Çocukların Gizliliği</h2>
+  <p>Bu oyun, 13 yaş altındaki bireylerden bilerek bilgi toplamaz. Bir ebeveyn olarak çocuğunuzun bize bilgi sağladığını düşünüyorsanız, lütfen bizimle iletişime geçin.</p>
+
+  <h2>5. Gizlilik Politikası Değişiklikleri</h2>
+  <p>Bu politika zaman zaman güncellenebilir. Güncellemeler bu sayfada yayınlanacaktır.</p>
+
+  <h2>6. İletişim</h2>
+  <p>Herhangi bir soru veya geri bildiriminiz için bizimle iletişime geçebilirsiniz:</p>
+  <p><strong>E-posta:</strong> <a href="mailto:moon.rising@outlook.com">moon.rising@outlook.com</a></p>
+</body>
+</html>
